@@ -96,10 +96,10 @@
 
 <div align="center">
   <!-- SECURITY: target="_blank" links MUST include rel="noopener noreferrer" to prevent tabnabbing -->
-  <a href="https://github.com/USERNAME" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/meetderiva" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/USERNAME" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/meetderiva" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:YOUR_EMAIL" target="_blank" rel="noopener noreferrer">
