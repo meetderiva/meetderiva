@@ -342,7 +342,7 @@
   workflow. The snake SVG will appear after the first successful run.
 -->
 
-<img width="100%" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" alt="Snake animation" />
+<img width="100%" src="https://raw.githubusercontent.com/meetderiva/meetderiva/output/snake.svg" alt="Snake animation" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗
      ║  LICENSE                                                                 ║
