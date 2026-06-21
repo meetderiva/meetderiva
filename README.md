@@ -184,20 +184,20 @@
   <table border="none" align="center">
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=meetderiva&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=meetderiva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetderiva&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=tokyonight" alt="Profile Summary" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meetderiva&theme=tokyonight" alt="Profile Summary" />
       </td>
     </tr>
   </table>
@@ -211,7 +211,7 @@
      replace with a different achievement display. -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&margin-w=3" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=meetderiva&theme=tokyonight&margin-w=3" alt="Trophies">
 </div>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗
