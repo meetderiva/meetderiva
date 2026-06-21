@@ -1,0 +1,11 @@
+# Internal tooling — not for template consumers
+.atl/
+openspec/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Operating system files
+.DS_Store
+Thumbs.db

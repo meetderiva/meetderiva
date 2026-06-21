@@ -1,0 +1,15 @@
+# Normalize text files across operating systems
+* text=auto
+
+# Text formats
+*.md text
+*.yml text
+*.yaml text
+*.py text
+*.txt text
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
